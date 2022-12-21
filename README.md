@@ -1,2 +1,2 @@
-# Opal-GL-SFT1200-
-固件
+# Opal-GL-SFT1200
+## 原版纯openwrt固件
